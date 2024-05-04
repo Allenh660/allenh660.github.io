@@ -1,0 +1,1 @@
+import{_ as e}from"./_plugin-vue_export-helper-c27b6911.js";import{f as t,h as c}from"./vue-1d5ce256.js";const n={};function r(o,s){return t(),c("div",null," mint ")}const f=e(n,[["render",r]]);export{f as default};
